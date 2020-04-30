@@ -1,3 +1,3 @@
 this is sample2 .txt file---
 new changesdd
-new changes
+new changes..
